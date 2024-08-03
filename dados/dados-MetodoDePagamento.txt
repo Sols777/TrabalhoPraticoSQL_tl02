@@ -1,0 +1,5 @@
+7001, dinheiro,
+7002, cartão de débito/crédito,
+7003, MB Way,
+7004, QR Code - Site,
+7005, QR Code - App

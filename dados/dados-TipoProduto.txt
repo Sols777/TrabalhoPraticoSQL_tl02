@@ -1,0 +1,8 @@
+7001, água,
+7002, refrigerante,
+7003, sumo,
+7004, batata frita,
+7005, bolachas,
+7006, sanduíche,
+7007, croissant,
+7008, chocolate

@@ -1,0 +1,11 @@
+7001, Forum Aveiro,
+7002, Glicínias Plaza,
+7003, Mercado Manuel Firmino,
+7004, Aveiro Center,
+7005, El Corte Inglés de Gaia,
+7006, ArrábidaShopping,
+7007, GaiaShopping,
+7008, NorteShopping,
+7009, MAR Shopping,
+7010, Shopping Cidade do Porto,
+7011, Parque Nascente
